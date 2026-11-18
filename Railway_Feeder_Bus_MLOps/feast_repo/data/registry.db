@@ -1,0 +1,38 @@
+
+Q
+3
+transfer"transfer_idJrailway_connection_project
+ùØõ×øˆì*ùØõ×øˆì*
+O
+1
+__dummy"
+__dummy_idJrailway_connection_project
+ùØõ×Ğ˜ù*ùØõ×Ğ˜ù*1"$4635ceba-446b-4190-a76f-51e17036711d*ùØõ×¸øü;2¼
+
+railway_transfer_featuresrailway_connection_projecttransfer"
+train_delay_min"
+
+distance_m"
+walking_speed_mps"
+scheduled_transfer_min"
+estimated_walking_time"
+transfer_time_margin2€ç„:¨event_timestampZ data/transfer_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transfer_features.parquet’çØõ× ¤Ë•"ùØõ×àÀè&@b
+transfer_id’latest
+ùØõ×°¨–*ùØõ×°¨–*bÅevent_timestampZ data/transfer_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transfer_features.parquetªrailway_connection_project’çØõ× ¤Ë•"ùØõ×àÀè&zB
+railway_connection_project$5670d893-922e-44b1-89a4-abd40317eebbŠ:
+
+railway_connection_project
+ùØõ×ğÉÿ&ùØõ×ğÉÿ&’º
+·
+railway_transfer_featuresrailway_connection_project"feature_view*¼
+
+railway_transfer_featuresrailway_connection_projecttransfer"
+train_delay_min"
+
+distance_m"
+walking_speed_mps"
+scheduled_transfer_min"
+estimated_walking_time"
+transfer_time_margin2€ç„:¨event_timestampZ data/transfer_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transfer_features.parquet’çØõ× ¤Ë•"ùØõ×àÀè&@b
+transfer_id’latest
+ùØõ×°¨–*ùØõ×°¨–*2ùØõ×èÉæ*B$164edef5-d270-4f85-8ed9-4d63e856cb79
